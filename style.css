@@ -1,0 +1,59 @@
+h1 {
+    margin-left: 20%;
+    color: rgb(25, 16, 91);
+}
+
+.container {
+    margin-left: 0 !important;
+    margin-top: 3%;
+    ;
+}
+
+.searchdiv {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.search {
+    margin-top: 15px;
+    padding: 5px 15px;
+    height: 30px;
+    margin-right: 5%;
+    border-color: rgb(25, 16, 91);
+
+}
+
+.newtaskdiv {
+    margin-top: 8%;
+    margin-left: 42%;
+}
+
+.newtask {
+    padding: 10px 50px;
+    border-color: rgb(25, 16, 91);
+}
+
+.add {
+    padding: 10px 10px;
+}
+
+button {
+    border-color: rgb(255, 97, 150);
+    background-color: rgb(255, 97, 150);
+    color: white;
+}
+
+.seconddiv {
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+.maintable {
+    max-width: 70%;
+    color: rgb(25, 16, 91);
+}
+
+.checkbox {
+    width: 30px;
+}
